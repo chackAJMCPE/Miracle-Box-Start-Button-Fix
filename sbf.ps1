@@ -1,4 +1,4 @@
-$miracleThunderPath = "C:\Gsm_X_Team\Miracle Thunder v2.82\Miracle_Thunder.exe"
+$miracleThunderPath = "$PSScriptRoot\Miracle_Thunder.exe"
 Set-Date 20/06/2020
 Start-Process $miracleThunderPath
 $processName = "Miracle_Thunder"
